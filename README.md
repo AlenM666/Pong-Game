@@ -10,7 +10,7 @@ This is a simple Pong game made in python with Turtle.
 Player movements:
     
     - Player One moves with 'Up' and 'Down' arrows.
-    - Player Two moves with 'X' down and 'R' up.
+    - Player Two moves with 'X' down and 'E' up.
 
 Start by running **main.py** file.
 
