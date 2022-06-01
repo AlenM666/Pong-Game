@@ -7,6 +7,8 @@ Pong is one of the most famous arcade games, simulating table tennis. Each playe
 
 This is a simple Pong game made in python with Turtle.
 
+ ![](images/pong.PNG)
+
 Player movements:
     
     - Player One moves with 'Up' and 'Down' arrows.
